@@ -137,5 +137,3 @@ We're small but mighty—turning concepts into reality with a lean, agile approa
 </p>
 
 ---
-
-> **Note:** Don't forget to replace `yourusername` with your actual GitHub username in the stats links!
