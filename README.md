@@ -1,7 +1,7 @@
 # Hi there, I'm RuZiyang 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Student+%7C+Young+Entrepreneur;AI+Enthusiast+%7C+Founder+%40MindSurge;Code.+Create.+Conquer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Student+%7C+Young+Entrepreneur;AI+Enthusiast+%7C+Founder+%40MindSurge;Code.+Create.+Conquer.;Forward-thinking+%26+Independent+Thinker" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 I'm a passionate **Grade 9 student** in Beijing, aiming for top high schools like **Peking University High School (北大附中)**.  
 But I'm not just a student—I'm also the founder of **[MindSurge](https://github.com/MindSurge)** , a tech startup focused on AI and software development.  
-I love using code to solve real problems, exploring cutting-edge tech, and blending creativity with business.
+I'm a **forward-thinking, independent thinker** who loves exploring the frontiers of technology, using code to solve real problems, and blending creativity with business.
 
 ---
 
@@ -33,16 +33,19 @@ I love using code to solve real problems, exploring cutting-edge tech, and blend
 - 🎨 **Creative Design** – from brand naming to logo design with AI assistance  
 
 As the **CEO**, I handle project planning, proposal writing, product design, budgeting, and everything in between.  
+Our team includes **WHY-MindSurge** ([@WHY-MindSurge](https://github.com/WHY-MindSurge)), a talented full-stack developer who brings our ideas to life.
+
 We're small but mighty—turning concepts into reality with a lean, agile approach.
 
 ---
 
 ## ⚡ What I Do
 
-- **Code** – Proficient in **C++**, always learning new languages and frameworks  
+- **Code** – Proficient in **C++**, **Python**, and **full-stack development** (JavaScript/TypeScript, React, Node.js). My strength lies in **large language models (LLMs)** and **software development**.
 - **Create** – Use AI (Midjourney, DALL·E, etc.) to generate realistic portraits and scenes with a natural, youthful vibe  
 - **Think** – Obsessed with wealth mindset, cognitive growth, and social humanities (thanks to Douyin & videos)  
-- **Lead** – Run MindSurge like a startup, even while juggling schoolwork
+- **Lead** – Run MindSurge like a startup, even while juggling schoolwork  
+- **Hardware** – Experiment with **Raspberry Pi** and **Jetson Nano** to deploy language models and vision models on edge devices.
 
 ---
 
@@ -78,12 +81,14 @@ We're small but mighty—turning concepts into reality with a lean, agile approa
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### Dev Tools
+### Dev Tools & Hardware
 <p align="left">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
+  <img src="https://img.shields.io/badge/-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 ### Business & Design
@@ -119,7 +124,8 @@ We're small but mighty—turning concepts into reality with a lean, agile approa
 
 - 📱 I learn best through short videos – wealth mindset, cognitive biases, and real-world stories  
 - 🎨 My aesthetic: youthful, natural, and candid – like a phone snapshot with soul  
-- 🧠 I never stop questioning – if I don't know, I research until I find a clear, actionable answer
+- 🧠 I never stop questioning – if I don't know, I research until I find a clear, actionable answer  
+- 🚀 I'm a **forward-thinking, independent thinker** – always looking beyond the obvious.
 
 ---
 
@@ -130,7 +136,11 @@ We're small but mighty—turning concepts into reality with a lean, agile approa
   <a href="https://twitter.com/RuZiyang"><img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://instagram.com/stevenru11"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Website%20(coming%20soon)-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/你的B站ID"><img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <a href="https://www.douyin.com/user/你的抖音ID"><img src="https://img.shields.io/badge/-Douyin-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
+
+> **Note:** 请将B站和抖音链接中的 `你的B站ID` 和 `你的抖音ID` 替换为你的实际用户ID。B站昵称：茹梓阳，抖音昵称：Jackdaw。
 
 ---
 
