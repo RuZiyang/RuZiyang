@@ -1,7 +1,7 @@
 # Hi there, I'm Steven 👋
 🚀 Student | Young Entrepreneur | AI Enthusiast | Founder & CEO @ MindSurge
 
-I'm a passionate Grade 9 student in Beijing, aiming for top high schools like Tsinghua High School or Peking University High School.
+I'm a passionate Grade 9 student in Beijing, aiming for top high schools like Peking University High School.
 But I'm not just a student—I'm also the founder of MindSurge, a tech startup focused on AI and software development.
 I love using code to solve real problems, exploring cutting-edge tech, and blending creativity with business.
 
