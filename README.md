@@ -45,7 +45,7 @@ We're small but mighty—turning concepts into reality with a lean, agile approa
 
 - **Code** – Proficient in **C++**, **Python**, **full-stack development** (JavaScript/TypeScript, React, Node.js), and **mobile development** (HarmonyOS, Android, iOS). My strength lies in **large language models (LLMs)** and **cross-platform software**.
 - **Create** – Use AI (Midjourney, DALL·E, etc.) to generate realistic portraits and scenes with a natural, youthful vibe  
-- **Think** – Obsessed with wealth mindset, cognitive growth, and social humanities (thanks to Douyin & videos)  
+- **Think** – Obsessed with wealth mindset, cognitive growth, and social humanities 
 - **Lead** – Run MindSurge like a startup, even while juggling schoolwork  
 - **Hardware** – Experiment with **Raspberry Pi** and **Jetson Nano** to deploy language models and vision models on edge devices.
 
