@@ -14,7 +14,7 @@
 ---
 
 I'm a passionate **Grade 9 student** in Beijing, aiming for top high schools like **Peking University High School (北大附中)**.  
-But I'm not just a student—I'm also the founder of **[MindSurge]** , a tech startup focused on AI and software development.  
+But I'm not just a student—I'm also the founder of **MindSurge** , a tech startup focused on AI and software development.  
 I'm a **forward-thinking, independent thinker** who loves exploring the frontiers of technology, using code to solve real problems, and blending creativity with business.
 
 ---
