@@ -32,7 +32,7 @@ I'm a **forward-thinking, independent thinker** who loves exploring the frontier
 - 💻 **Software Development** – building practical, innovative projects  
 - 🎨 **Creative Design** – from brand naming to logo design with AI assistance  
 
-As the **CEO**, I lead a team of 6 talented individuals, including **WHY-MindSurge** ([@WHY-MindSurge](https://github.com/WHY-MindSurge)), our full-stack developer who brings ideas to life.  
+As the **CEO**, I lead a team of 6 talented individuals, including **Wang Haoyu** ([@WHY-MindSurge](https://github.com/WHY-MindSurge)), our full-stack developer who brings ideas to life.  
 We're small but mighty—turning concepts into reality with a lean, agile approach.
 
 ---
