@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-15-2F81F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Age-14-2F81F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Beijing-2F81F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Target-Peking%20University%20High%20School-2F81F7?style=for-the-badge" />
 </p>
@@ -32,9 +32,7 @@ I'm a **forward-thinking, independent thinker** who loves exploring the frontier
 - 💻 **Software Development** – building practical, innovative projects  
 - 🎨 **Creative Design** – from brand naming to logo design with AI assistance  
 
-As the **CEO**, I handle project planning, proposal writing, product design, budgeting, and everything in between.  
-Our team includes **WHY-MindSurge** ([@WHY-MindSurge](https://github.com/WHY-MindSurge)), a talented full-stack developer who brings our ideas to life.
-
+As the **CEO**, I lead a team of 6 talented individuals, including **WHY-MindSurge** ([@WHY-MindSurge](https://github.com/WHY-MindSurge)), our full-stack developer who brings ideas to life.  
 We're small but mighty—turning concepts into reality with a lean, agile approach.
 
 ---
@@ -136,11 +134,9 @@ We're small but mighty—turning concepts into reality with a lean, agile approa
   <a href="https://twitter.com/RuZiyang"><img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://instagram.com/stevenru11"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Website%20(coming%20soon)-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://space.bilibili.com/你的B站ID"><img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
-  <a href="https://www.douyin.com/user/你的抖音ID"><img src="https://img.shields.io/badge/-Douyin-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/2081590432"><img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <a href="https://www.douyin.com/user/48246686770"><img src="https://img.shields.io/badge/-Douyin-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
-
-> **Note:** 请将B站和抖音链接中的 `你的B站ID` 和 `你的抖音ID` 替换为你的实际用户ID。B站昵称：茹梓阳，抖音昵称：Jackdaw。
 
 ---
 
