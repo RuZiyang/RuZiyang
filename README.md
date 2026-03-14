@@ -4,11 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Student+%7C+Young+Entrepreneur;AI+Enthusiast+%7C+Founder+%40MindSurge;HarmonyOS+%7C+Android+%7C+iOS+Developer;Code.+Create.+Conquer.;Forward-thinking+%26+Independent+Thinker" alt="Typing SVG" />
 </p>
 
+<!-- Skill Tags (replaced Age/Location/Target/Role) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-14-2F81F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Beijing-2F81F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Target-Peking%20University%20High%20School-2F81F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-HarmonyOS%20Engineer-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
 ---
@@ -76,10 +80,10 @@ These fields combine my passion for software, hardware, and real‑world impact.
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -87,9 +91,9 @@ These fields combine my passion for software, hardware, and real‑world impact.
 
 ### Mobile & OS Development
 <p align="left">
-  <img src="https://img.shields.io/badge/-HarmonyOS-000000?style=for-the-badge&logo=huawei&logoColor=white" />
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HarmonyOS-000000?style=for-the-badge&logo=huawei&logoColor=white" />
 </p>
 
 ### AI & Creativity
