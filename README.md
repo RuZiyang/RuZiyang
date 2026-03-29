@@ -1,24 +1,18 @@
 # Hi there, I'm Steven 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Student+%7C+Young+Entrepreneur;AI+Enthusiast+%7C+Founder+%40MindSurge;HarmonyOS+%7C+Android+%7C+iOS+Developer;Code.+Create.+Conquer.;Forward-thinking+%26+Independent+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Student+%7C+Young+Entrepreneur;AI+Enthusiast+%7C+Founder+%40MindSurge;HarmonyOS+%7C+Android+%7C+iOS+Developer;Founder+of+Student+Development+Community;Code.+Create.+Conquer.;Forward-thinking+%26+Independent+Thinker" alt="Typing SVG" />
 </p>
 
-<!-- Skill Tags (replaced Age/Location/Target/Role) -->
+<!-- Skill Tags using skill-icons (dynamic) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,web,ai,pycharm&theme=dark&perline=7" />
 </p>
 
 ---
 
-I'm a passionate **Grade 9 student** in Beijing, aiming for top high schools —— **Peking University High School**.  
-But I'm not just a student—I'm also the founder of **MindSurge** , a tech startup focused on AI and software development.  
+I'm a passionate **Grade 9 student** in Beijing, aiming for top high schools like **Peking University High School (北大附中)**.  
+But I'm not just a student—I'm also the founder of **MindSurge** , a tech startup focused on AI and software development, and **Student Development Community**, an organization in China providing an academic exchange platform for students.  
 I'm a **forward-thinking, independent thinker** who loves exploring the frontiers of technology, using code to solve real problems, and blending creativity with business.
 
 ---
@@ -37,11 +31,18 @@ I'm a **forward-thinking, independent thinker** who loves exploring the frontier
 - 💻 **Software Development** – building practical, innovative projects across **HarmonyOS, Android, and iOS**  
 - 🎨 **Creative Design** – from brand naming to logo design with AI assistance  
 
-As the **CEO**, I lead a team of 6 talented individuals, including **Wang Haoyu** ([@WHY-MindSurge](https://github.com/WHY-MindSurge)), our full-stack developer who brings ideas to life.  
+As the **CEO**, I lead a team of **3 talented individuals**, including **Wang Haoyu** ([@WHY-MindSurge](https://github.com/WHY-MindSurge)), our full-stack developer who brings ideas to life.  
 
 Before MindSurge, I founded **Alamut** in 2022 — a community of nearly 30 enthusiasts exploring **software, hardware, and AI**. After gaining valuable experience, the core team evolved into what is now **MindSurge**, a more focused startup aiming to build real-world AI solutions. The vision of Alamut continues to inspire us, and many of its members remain active in our broader network.
 
 We're small but mighty—turning concepts into reality with a lean, agile approach.
+
+---
+
+## 🌟 Student Development Community
+
+I'm also the founder of **Student Development Community** (学生发展社群), a platform based in China dedicated to empowering students through academic exchange, peer learning, and collaborative projects.  
+Our mission is to bridge the gap between passionate learners and real-world opportunities, fostering a supportive environment for growth.
 
 ---
 
@@ -50,7 +51,7 @@ We're small but mighty—turning concepts into reality with a lean, agile approa
 - **Code** – Proficient in **C++**, **Python**, **full-stack development** (JavaScript/TypeScript, React, Node.js), and **mobile development** (HarmonyOS, Android, iOS). My strength lies in **large language models (LLMs)** and **cross-platform software**.
 - **Create** – Use AI (Midjourney, DALL·E, etc.) to generate realistic portraits and scenes with a natural, youthful vibe  
 - **Think** – Obsessed with wealth mindset, cognitive growth, and social humanities 
-- **Lead** – Run MindSurge like a startup, even while juggling schoolwork  
+- **Lead** – Run MindSurge like a startup, even while juggling schoolwork, and build Student Development Community to help others grow
 - **Hardware** – Experiment with **Raspberry Pi** and **Jetson Nano** to deploy language models and vision models on edge devices.
 
 ---
@@ -61,6 +62,7 @@ We're small but mighty—turning concepts into reality with a lean, agile approa
   <img src="https://img.shields.io/badge/📚%20Crushing%20Zhongkao-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🛠️%20Building%20MindSurge-2D9CDB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌱%20Deepening%20AI%20Knowledge-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥%20Student%20Development%20Community-00A86B?style=for-the-badge" />
 </p>
 
 ---
@@ -80,39 +82,28 @@ These fields combine my passion for software, hardware, and real‑world impact.
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nodejs&theme=dark" />
 </p>
 
 ### Mobile & OS Development
 <p align="left">
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HarmonyOS-000000?style=for-the-badge&logo=huawei&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=android,ios,harmonyos&theme=dark" />
 </p>
 
 ### AI & Creativity
 <p align="left">
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=openai,figma&theme=dark" />
+  <!-- Claude, Midjourney, Codex not in skill-icons, keep as badges -->
   <img src="https://img.shields.io/badge/-Claude-7F56DA?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### Dev Tools & Hardware
 <p align="left">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,raspberrypi&theme=dark" />
   <img src="https://img.shields.io/badge/-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ### Business & Design
@@ -172,5 +163,6 @@ These fields combine my passion for software, hardware, and real‑world impact.
 
 <p align="center">
   <i>"Code. Create. Conquer."</i><br>
-  — Me, while juggling homework and a startup
+  — Me, while juggling homework, running a startup, and building a community
 </p>
+```
