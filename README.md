@@ -1,24 +1,18 @@
 # Hi there, I'm Steven 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Student+%7C+Young+Entrepreneur;AI+Enthusiast+%7C+Founder+%40MindSurge;HarmonyOS+%7C+Android+%7C+iOS+Developer;Code.+Create.+Conquer.;Forward-thinking+%26+Independent+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Student+%7C+Young+Entrepreneur;AI+Enthusiast+%7C+Founder+%40MindSurge;HarmonyOS+%7C+Android+%7C+iOS+Developer;Founder+of+Student+Development+Community;Code.+Create.+Conquer.;Forward-thinking+%26+Independent+Thinker" alt="Typing SVG" />
 </p>
 
-<!-- Skill Tags (replaced Age/Location/Target/Role) -->
+<!-- Skill Tags (dynamic via skill-icons) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,web,ai,pycharm&theme=dark&perline=7" />
 </p>
 
 ---
 
-I'm a passionate **Grade 9 student** in Beijing, aiming for top high schools —— **Peking University High School**.  
-But I'm not just a student—I'm also the founder of **MindSurge** , a tech startup focused on AI and software development.  
+I'm a passionate **Grade 9 student** in Beijing, aiming for top high school —— **Peking University High School**.  
+But I'm not just a student—I'm also the founder of **MindSurge** , a tech startup focused on AI and software development, and **Student Development Community** (学生发展社群), a platform in China dedicated to empowering students through academic exchange, peer learning, and collaborative projects.  
 I'm a **forward-thinking, independent thinker** who loves exploring the frontiers of technology, using code to solve real problems, and blending creativity with business.
 
 ---
@@ -37,7 +31,7 @@ I'm a **forward-thinking, independent thinker** who loves exploring the frontier
 - 💻 **Software Development** – building practical, innovative projects across **HarmonyOS, Android, and iOS**  
 - 🎨 **Creative Design** – from brand naming to logo design with AI assistance  
 
-As the **CEO**, I lead a team of 6 talented individuals, including **Wang Haoyu** ([@WHY-MindSurge](https://github.com/WHY-MindSurge)), our full-stack developer who brings ideas to life.  
+As the **CEO**, I lead a team of **6 talented individuals**, including **Wang Haoyu** ([@WHY-MindSurge](https://github.com/WHY-MindSurge)), our full-stack developer who brings ideas to life.  
 
 Before MindSurge, I founded **Alamut** in 2022 — a community of nearly 30 enthusiasts exploring **software, hardware, and AI**. After gaining valuable experience, the core team evolved into what is now **MindSurge**, a more focused startup aiming to build real-world AI solutions. The vision of Alamut continues to inspire us, and many of its members remain active in our broader network.
 
@@ -45,13 +39,20 @@ We're small but mighty—turning concepts into reality with a lean, agile approa
 
 ---
 
+## 🌟 Student Development Community
+
+I'm the founder of **Student Development Community** (学生发展社群), an organization based in China that provides a collaborative platform for students to exchange ideas, share knowledge, and grow together. Our mission is to bridge the gap between passionate learners and real-world opportunities, fostering a supportive environment for academic and personal development.
+
+---
+
 ## ⚡ What I Do
 
-- **Code** – Proficient in **C++**, **Python**, **full-stack development** (JavaScript/TypeScript, React, Node.js), and **mobile development** (HarmonyOS, Android, iOS). My strength lies in **large language models (LLMs)** and **cross-platform software**.
-- **Create** – Use AI (Midjourney, DALL·E, etc.) to generate realistic portraits and scenes with a natural, youthful vibe  
-- **Think** – Obsessed with wealth mindset, cognitive growth, and social humanities 
-- **Lead** – Run MindSurge like a startup, even while juggling schoolwork  
+- **Code** – Proficient in **C++**, **Python**, **full-stack development** (JavaScript/TypeScript, React, Node.js), and **mobile development** (Android, iOS, HarmonyOS). My strength lies in **large language models (LLMs)** and **cross-platform software**.
+- **Create** – Use AI (Midjourney, DALL·E, etc.) to generate realistic portraits and scenes with a natural, youthful vibe. Also love **design** – from UI/UX to brand identity.
+- **Think** – Obsessed with wealth mindset, cognitive growth, social humanities, and **reverse thinking**.
+- **Lead** – Run MindSurge like a startup, even while juggling schoolwork, and build Student Development Community to help others grow.
 - **Hardware** – Experiment with **Raspberry Pi** and **Jetson Nano** to deploy language models and vision models on edge devices.
+- **Explore** – Dive into **natural sciences**, **classical physics**, and beyond. I'm an avid sports enthusiast: basketball, table tennis, cycling, badminton, soccer, ultimate frisbee – you name it, I play it.
 
 ---
 
@@ -61,18 +62,14 @@ We're small but mighty—turning concepts into reality with a lean, agile approa
   <img src="https://img.shields.io/badge/📚%20Crushing%20Zhongkao-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🛠️%20Building%20MindSurge-2D9CDB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌱%20Deepening%20AI%20Knowledge-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥%20Student%20Development%20Community-00A86B?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔮 Future Vision
+## 🔮 My Vision & Dream
 
-I'm deeply interested in the next wave of AI innovation. MindSurge is gearing up to explore:
-
-- **Embodied AI** – bringing intelligence to physical systems  
-- **Low‑altitude Economy** – leveraging AI for drones, urban air mobility, and smart logistics  
-
-These fields combine my passion for software, hardware, and real‑world impact. Stay tuned!
+My ultimate dream is to **push humanity into an interstellar civilization** – to use technology to transform our future, help others, and make life more convenient for everyone. I want to **eliminate poverty as much as possible** and ensure that the benefits of technology reach every corner of the world. This is my初心 – to blend innovation with compassion, and to build a future where no one is left behind.
 
 ---
 
@@ -80,39 +77,28 @@ These fields combine my passion for software, hardware, and real‑world impact.
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nodejs&theme=dark" />
 </p>
 
 ### Mobile & OS Development
 <p align="left">
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=android,ios&theme=dark" />
   <img src="https://img.shields.io/badge/-HarmonyOS-000000?style=for-the-badge&logo=huawei&logoColor=white" />
 </p>
 
 ### AI & Creativity
 <p align="left">
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=openai,figma&theme=dark" />
   <img src="https://img.shields.io/badge/-Claude-7F56DA?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### Dev Tools & Hardware
 <p align="left">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,raspberrypi&theme=dark" />
   <img src="https://img.shields.io/badge/-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ### Business & Design
@@ -123,32 +109,11 @@ These fields combine my passion for software, hardware, and real‑world impact.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuZiyang&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&v=123" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuZiyang&layout=compact&langs_count=8&theme=radical&hide_border=true&v=123" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuZiyang&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RuZiyang&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuZiyang&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
-</p>
-
----
-
 ## 🎯 Fun Facts
 
-- 📱 I learn best through short videos – wealth mindset, cognitive biases, and real-world stories  
-- 🎨 My aesthetic: youthful, natural, and candid – like a phone snapshot with soul  
-- 🧠 I never stop questioning – if I don't know, I research until I find a clear, actionable answer  
+- 📚 I learn best through **videos, talks, and reading** – absorbing wealth mindset, cognitive biases, and real-world stories.  
+- 🎨 My aesthetic: **simple, clean, like Steve Jobs** – youthful, natural, candid, and purposeful.  
+- 🧠 I never stop questioning – if I don't know, I research until I find a clear, actionable answer. I love **reverse thinking** and challenging assumptions.  
 - 🚀 I'm a **forward-thinking, independent thinker** – always looking beyond the obvious.
 
 ---
@@ -171,6 +136,6 @@ These fields combine my passion for software, hardware, and real‑world impact.
 </p>
 
 <p align="center">
-  <i>"Code. Create. Conquer."</i><br>
-  — Me, while juggling homework and a startup
+  <i>"Code. Create. Conquer. And make the future better for everyone."</i><br>
+  — Me, while juggling homework, running a startup, building a community, and dreaming of the stars.
 </p>
