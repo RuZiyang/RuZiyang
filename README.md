@@ -4,9 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Student+%7C+Young+Entrepreneur;AI+Enthusiast+%7C+Founder+%40MindSurge;HarmonyOS+%7C+Android+%7C+iOS+Developer;Founder+of+Student+Development+Community;Code.+Create.+Conquer.;Forward-thinking+%26+Independent+Thinker" alt="Typing SVG" />
 </p>
 
-<!-- Skill Tags (dynamic via skill-icons) -->
+<!-- Static skill tags (beautiful badges) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,web,ai,pycharm&theme=dark&perline=7" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
 ---
@@ -77,28 +83,39 @@ My ultimate dream is to **push humanity into an interstellar civilization** – 
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nodejs&theme=dark" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
 ### Mobile & OS Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,ios&theme=dark" />
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
   <img src="https://img.shields.io/badge/-HarmonyOS-000000?style=for-the-badge&logo=huawei&logoColor=white" />
 </p>
 
 ### AI & Creativity
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openai,figma&theme=dark" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-7F56DA?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" />
   <img src="https://img.shields.io/badge/-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ### Dev Tools & Hardware
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,raspberrypi&theme=dark" />
-  <img src="https://img.shields.io/badge/-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
+  <img src="https://img.shields.io/badge/-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 ### Business & Design
